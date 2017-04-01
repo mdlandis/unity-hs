@@ -1,0 +1,60 @@
+neutral	Elven Archer	elvenarcher	minion	1	1	1	basic
+neutral	Haunted Creeper	hauntedcreeper	minion	2	1	2	common	beast
+neutral	Spider Tank	spidertank	minion	3	3	4	common	mech	
+neutral	Sen'jin Shieldmasta	senjinshieldmasta	minion	4	3	5	basic
+neutral	Stampeding Kodo	stampedingkodo	minion	5	3	5	rare	beast
+neutral	Boulderfist Ogre	boulderfistogre	minion	6	6	7	basic	
+neutral	Dr. Boom	drboom	minion	7	7	7	legendary	
+neutral	Force Tank Max	forcetankmax	minion	8	7	7	common	mech
+neutral	Onyxia	onyxia	minion	9	8	8	legendary	dragon
+neutral	Deathwing	deathwing	minion	10	12	12	legendary	dragon
+warlock	Imp Gang Boss	impgangboss	minion	3	2	4	common	demon
+warlock	Voidwalker	voidwalker	minion	1	1	3	basic	demon
+warlock	Flame Imp	flameimp	minion	1	3	2	basic	demon
+warlock	Void Terror	voidterror	minion	3	3	3	rare	demon
+warlock	Voidcaller	voidcaller	minion	4	3	4	common	demon
+warlock	Doomguard	doomguard	minion	5	5	7	rare	demon
+neutral	Nerubian Egg	nerubianegg	minion	2	0	2	rare	
+neutral	Knife Juggler	knifejuggler	minion	2	3	2	rare
+neutral	Defender of Argus	defenderofargus	minion	4	2	3	rare
+neutral	Sludge Belcher	sludgebelcher	minion	5	3	5	rare	
+neutral	Sylvanas Windrunner	sylvanaswindrunner	minion	6	5	5	legendary
+warrior	Cruel Taskmaster	crueltaskmaster	minion	2	2	2	common
+warrior	Armorsmith	armorsmith	minion	2	1	4	rare
+warrior	Shieldmaiden	shieldmaiden	minion	6	5	5	rare
+warrior	Grommash Hellscream	grommashhellscream	minion	8	4	9	legendary
+neutral	Annoy-o-tron	annoyotron	minion	2	1	2	rare
+neutral	Acolyte of Pain	acolyteofpain	minion	3	1	3	rare
+neutral	Big Game Hunter	biggamehunter	minion	3	4	2	epic
+neutral	Emperor Thaurissan	emperorthaurissan	minion	6	5	5	legendary
+neutral	Baron Geddon	barongeddon	minion	7	7	5	legendary
+neutral	Ragnaros the Firelord	ragnarosthefirelord	minion	8	8	8	legendary
+neutral	Alexstrasza	alexstrasza	minion	9	8	8	legendary
+warrior	Brawl	brawl	spell	5	0	0	epic
+warrior	Bash	bash	spell	3	0	0	common
+warrior	Mortal Strike	mortalstrike	spell	4	0	0	basic	
+warrior	Execute	execute	spell	1	0	0	basic
+warrior	Shield Slam	shieldslam	spell	1	0	0	epic
+warrior	Whirlwind	whirlwind	spell	1	0	0	basic
+warrior	Shield Block	shieldblock	spell	3	0	0	basic
+neutral	Reno Jackson	renojackson	minion	6	4	6	legendary
+warlock	Soulfire	soulfire	spell	1	0	0	basic
+warlock	Mortal Coil	mortalcoil	spell	1	0	0	basic	
+neutral	Abusive Sergeant	abusivesergeant	minion	1	2	1	common
+warlock	Power Overwhelming	poweroverwhelming	spell	1	0	0	rare
+warrior	Fiery War Axe	fierywaraxe	weapon	2	3	2	basic
+warrior	Death's Bite	deathsbite	weapon	4	4	2	common
+warlock	Darkshire Councilman	darkshirecouncilman	minion	3	1	5	common
+warlock	Forbidden Ritual	forbiddenritual	spell	0	0	0	rare
+neutral	Gormok the Impaler	gormoktheimpaler	minion	4	4	4	legendary
+warlock	Lord Xavius	lordxavius	minion	6	6	5	legendary	demon
+warlock	Soul Well	soulwell	spell	1	0	0	epic
+warrior	Inner Rage	innerrage	spell	0	0	0	common
+warrior	Blood to Ichor	bloodtoichor	spell	1	0	0	rare
+warrior	Battle Rage	battlerage	spell	2	0	0	common
+warrior	Slam	slam	spell	2	0	0	common
+warrior	Frothing Berserker	frothingberserker	minion	3	2	4	common
+warrior	Ravaging Ghoul	ravagingghoul	minion	3	3	3	common
+warrior	Bloodhoof Brave	bloodhoofbrave	minion	4	2	6	common
+neutral	Grim Patron	grimpatron	minion	5	3	3	rare
+warrior	Warsong Commander	warsongcommander	minion	3	2	3	basic

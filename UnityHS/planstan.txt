@@ -1,0 +1,58 @@
+- My project was pretty ambitious.
+- "Make Hearthstone."
+- Do as much as I can until I simply ran out of time.
+- I accomplished: 
+	Reads in a card list from a text file
+	Minions, spells, weapons
+	Battlecry, deathrattle, "triggered"
+
+- No multiplayer, here's some very brief sample gameplay (30 seconds).
+- As far as code goes, there are like 90 classes, 9 of them are actually major and significant, 20 of them are smaller, and the remaining like 60 are all the card effects.
+- Some of the more interesting parts of the code:
+	Giving cards their effects and images and stuff uses filename
+	Minion SetCard FINDS THE CLASS GIVEN BY THE FILENAME AND PUTS IT ON THE OBJECT WOW SO COOL
+	Conditional Battlecries and stuff
+	THEORETICALLY EXTENSIBLE?!?!?
+	
+
+
+
+- Pick up cards in your hand
+- Place them on the board to play
+- Cancel by invalid clicks
+
+- Reads in cards from text
+- Shuffled decks
+- Cards have mana costs in order to play
+- Minions, spells, weapons
+
+- Effects: On play, on death, persistent, triggered, statts
+- Static effects divine shield, taunt, charge
+- On Play: targeted and non-targeted
+- Status effects that last for a duration can be applied to minions
+
+- Turn system
+- One player at a time - potential multiplayer
+- Mana increments by 1 each turn and resets to max
+- Mulligan on turn 1
+
+- Minions can attack each other and heros
+- Heros can attack minions when they have weapons equipped
+- Minions and Heros can die
+
+- Most things are constantly updated
+
+- Hero Powers once per turn, static effect and cost
+- Auto assigned based on class
+
+- Preview render on mousing over a card in your hand
+- Delayed preview on mousing over a minion
+- Cards on the board slide out of the way when playing a new one
+- Minions inserted on the board and board realigned based on where you clicked
+
+- Konami code unlocks dev tools
+
+
+
+
+	

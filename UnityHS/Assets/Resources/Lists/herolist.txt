@@ -1,0 +1,2 @@
+warlock	Gul'dan	warlock	hero	0	0	30	basic	
+warrior	Garrosh	warrior	hero	0	0	30	basic	

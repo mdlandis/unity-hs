@@ -1,0 +1,2 @@
+warlock	Life Tap	lifetap	2
+warrior	Armor Up	armorup	2

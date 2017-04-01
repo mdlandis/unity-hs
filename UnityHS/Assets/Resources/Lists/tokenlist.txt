@@ -1,0 +1,8 @@
+token	Spectral Spider	spectralspider	minion	1	1	1	common	
+token	Boom Bot	boombot	minion	1	1	1	common	mech
+token	Imp	imp	minion	1	1	1	common	demon
+token	Nerubian	nerubian	minion	3	4	4	common
+token	Slime	slime	minion	1	1	2	common
+token	Icky Tentatcle	ickytentacle	minion	1	1	1	common
+token	The Coin	thecoin	spell	0	0	0	basic
+token	Slime	ichorslime	minion	1	2	2	basic
